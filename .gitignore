@@ -55,4 +55,5 @@ Thumbs.db
 *.temp
 
 # Data Files
-data/
+data/SGJobData.csv
+data/cleaned_salary_data.csv
