@@ -541,7 +541,3 @@ SINGAPORE JOB MARKET - SALARY BENCHMARKING SUMMARY
    - Mid-level (5 yrs): $5,500 median
    - Senior (10 yrs): $8,200 median
 ```
-
----
-
-**Built with care for HR professionals and data enthusiasts**
