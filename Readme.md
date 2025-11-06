@@ -59,6 +59,7 @@ sgjob/
 ├── requirements.txt               # Python dependencies
 └── README.md                      # This file
 ```
+> **Note:** SGJobData.csv is not uploaded to repo. Please copy dataset in data folder before running notebook.
 
 ## Installation
 
